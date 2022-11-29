@@ -1,0 +1,9 @@
+{
+    "name": "MaxTec/prettier-config",
+    "version": "1.0.0",
+    "description": "My personal Prettier config",
+    "main": "index.json",
+    "repository": "git@github.com:MaxTec/prettier-config.git",
+    "author": "Max Tec",
+    "license": "MIT"
+  }
